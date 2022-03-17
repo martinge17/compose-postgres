@@ -10,6 +10,7 @@
 * Clone or download this repository
 * Go inside of directory,  `cd compose-postgres`
 * Run this command `docker-compose up -d`
+* (Recommended) Check if the containers are up and running with `docker ps`
 
 ## Stop 
 * Run this command `docker-compose down`  
