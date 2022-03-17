@@ -29,12 +29,12 @@ This Compose file contains the following environment variables:
 * **Username:** postgres (as a default)
 * **Password:** postgres (as a default)
 
-## Access to PgAdmin: 
+## Access to PgAdmin: (Optional) 
 * **URL:** `http://localhost:5050`
 * **Username:** null@null.com (as a default)
 * **Password:** admin (as a default)
 
-## Add a new server in PgAdmin:
+## Add a new server in PgAdmin: (Optional)
 * **Host name/address** `postgres`
 * **Port** `5432`
 * **Username** as `POSTGRES_USER`, by default: `postgres`
